@@ -659,7 +659,7 @@ const BirthdayWebsite = () => {
           {cakeClicked && (
             <div style={styles.fadeIn}>
               <p style={{ fontSize: 'clamp(1.25rem, 5vw, 1.5rem)', color: 'white', fontWeight: '600', marginBottom: '2rem' }}>
-                Perfect! Now let's celebrate! 🎉
+                Perfect! Now let's celebrate Metha! 🎉
               </p>
             </div>
           )}
@@ -673,9 +673,9 @@ const BirthdayWebsite = () => {
     const [hoveredPhoto, setHoveredPhoto] = useState(null);
 
     const wishes = [
-      "You light up my world like nobody else! ✨",
-      "Every moment with you is a treasure 💎",
-      "You're not just my girlfriend, you're my best friend 👫",
+      "You light up my world like nobody else BAE! ✨",
+      "Every moment with you is a treasure 💎 METHA",
+      "You're not just my girlfriend, you're METHO👫",
       "Here's to another year of amazing adventures together! 🌟",
       "You make every day feel like a celebration 🎉"
     ];
