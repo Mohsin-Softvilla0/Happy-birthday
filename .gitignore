@@ -1,0 +1,32 @@
+# dependencies
+/node_modules
+
+# production
+/dist
+/build
+
+# misc
+.env
+.env.*.local
+.vitepress/dist
+.cache
+.temp
+*.log
+yarn.lock
+pnpm-lock.yaml
+package-lock.json
+
+# local env files
+*.local
+
+# IDEs and editors
+.vscode
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# OS
+.DS_Store
+Thumbs.db
